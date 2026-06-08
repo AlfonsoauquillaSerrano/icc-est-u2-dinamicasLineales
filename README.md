@@ -15,5 +15,5 @@ algunos metodos generales de la lista como size() que devuelve la cantidad de el
 *** Colas ***  Se implementaro cola que el priimer elemento que entra es el primero que sale, se usaron sus metodos como: ofer() que agrega un 
 elemento al final, .
 
-![Captura de salida en consola](assets/calse_app.png)
-![Captura de salida en consola](assets/salida_app.png)
+![Captura de salida en consola](assets/Screenshot 2026-06-08 090252.png)
+![Captura de salida en consola](assets/Screenshot 2026-06-08 090537.png)

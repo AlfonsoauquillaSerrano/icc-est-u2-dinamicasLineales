@@ -1,18 +1,19 @@
-## Getting Started
+## Datos del Estudiante
+- **Nombre:** Alfonso Auquilla
+- **Curso:** Estructura de Datos grupo 1
+- **Fecha:** 3/6/2026
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+---
 
-## Folder Structure
+## 1. Implementación de Caja<T> y Par<K, V>
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**Fecha:** 3/6/2026
+**Descripción:** En esta practica se realizo la implememtacion de listas enlasadas creando una lista de LinkedList() y utilisando sus metodos
+algunos metodos generales de la lista como size() que devuelve la cantidad de elemntos, IsEmpty que ve si existen elemntos en la lista.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+*** Colas ***  Se implementaro cola que el priimer elemento que entra es el primero que sale, se usaron sus metodos como: ofer() que agrega un 
+elemento al final, .
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Captura de salida en consola](assets/calse_app.png)
+![Captura de salida en consola](assets/salida_app.png)

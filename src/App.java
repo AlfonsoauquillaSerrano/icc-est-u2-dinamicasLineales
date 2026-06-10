@@ -15,6 +15,15 @@ public class App {
         String invertido= ejercicio1.invertString(texto);
         System.out.println(texto);
         System.out.println(invertido);
+
+        Ejercicio2 ejercicio2 = new Ejercicio2();
+        String texto2 = "radar";
+        boolean esPalindromo= ejercicio2.esPalindromo(texto2);
+        if (esPalindromo) {
+            System.out.println(texto2 +" Es Palindromo");
+        } else {
+            System.out.println(texto2 + " No es Palindromo");
+        }
     }
 
     private static void runStack() {
